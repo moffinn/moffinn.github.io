@@ -113,7 +113,7 @@
 
     <div class="container">
         <div class="profile">
-            <img src="kiannn.jpg" alt="Your Name">
+            <img src="http://drive.google.com/uc?id=1A44IZ00HOURpsMn1D4jamfzZBQf6SOfD" alt="Your Name">
         </div>
 
         <div class="info">
@@ -138,7 +138,8 @@
             <h3>My hobbies</h3>
             <p><strong>Playing Games Online</strong></p>
          <div class="container">
-            <img src="skycotl.jpg" style="float: left;; width: 100px; height: 100px;">
+            <img src="http://drive.google.com/uc?export=view&id=1A3Yja0c_g3-nMlKg3obru0QOrtMNlF0g
+            " style="float: left;; width: 100px; height: 100px;">
             <br>
             <br>
             <br>
@@ -152,7 +153,7 @@
             <h3>My Favorite Song</h3>
             <p><strong>GOOD ENOUGH</strong></p>
              <div class="container">
-                <img src="goodenough.jpg" style="float: left;; width: 110px; height: 110px;">
+                <img src="http://drive.google.com/uc?id=1A6wfEivCxyB0-WxRO96SwkjEw_Fu1L7T" style="float: left;; width: 110px; height: 110px;">
                 <br>
                 <br>
                 <br>
